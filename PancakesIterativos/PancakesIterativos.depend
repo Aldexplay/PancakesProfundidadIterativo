@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679801768 source:d:\alexi\documents\pancakesiterativos\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<chrono>
+
